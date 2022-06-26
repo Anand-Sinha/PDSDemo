@@ -85,6 +85,10 @@ body {
   position: relative;
 }
 
+#ammunitionItemHidden, #componentsItemHidden{
+  display: none;
+}
+
 .header__nav {
   display: -webkit-box;
   display: -ms-flexbox;
